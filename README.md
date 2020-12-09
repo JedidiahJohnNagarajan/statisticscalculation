@@ -1,5 +1,7 @@
 # StatisticsCalc
 
-![Screenshot (252)](https://user-images.githubusercontent.com/13598741/101669456-f45a2600-3a77-11eb-99ee-70423eafd3d2.png)
+## Home
+![Screenshot (252)](https://user-images.githubusercontent.com/13598741/101669769-574bbd00-3a78-11eb-818d-f5cd581a7ca0.png)
+## Datasets
+![Screenshot (253)](https://user-images.githubusercontent.com/13598741/101669773-59158080-3a78-11eb-845c-bdbcc0f55e33.png)
 
-![Screenshot (253)](https://user-images.githubusercontent.com/13598741/101669485-fe7c2480-3a77-11eb-94a1-15d85017d22b.png)
